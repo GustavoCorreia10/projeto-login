@@ -1,16 +1,6 @@
 @charset "UTF-8";
 
 
-
-
-@media screen and (max-width: 768px) {
-    body {
-        background-image: linear-gradient(to right, #1f3960, #00eaff);
-    }
-}
-
-
-
 @media screen and (min-width: 768px) and (max-width:992px) {
 
     body {
