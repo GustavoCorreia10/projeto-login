@@ -94,21 +94,20 @@ div.campo > label {
 }
 
 div.campo > span {
-    
-    /* background-color: black; */
+     /* background-color: black; */
     font-size: 2em;
     width: 40px;
     padding: 5px;
 }
 
 div.campo > input {
-    background-color: #a1e3e354;
+    background-color: #52e0e000;
     font-size: 1em;
     width: calc(100% - 20%);
-    height: 100%;
+    height: calc(100% - 5%);
     border: 0px;
     border-radius: 8px;
-    padding: 4px;
+    padding: 8px;
     transform: translateY(-11px);
 }
 
